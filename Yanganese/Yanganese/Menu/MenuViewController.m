@@ -50,16 +50,14 @@
 - (void)viewWillAppear:(BOOL)animated {	
     // Fade and translate in
 	[self.navigationController setNavigationBarHidden:YES animated:YES];
-	[UIView beginAnimations:@"Slide In" context:nil];
-	[UIView setAnimationCurve:UIViewAnimationCurveEaseOut];
-	[UIView setAnimationDuration:kTransitionTime];
-	for(UIView *object in self.view.subviews) {
-		if([object isKindOfClass:[UIButton class]] || [object isKindOfClass:[UIImageView class]]) {
-			object.transform = translateOriginal;
-			object.alpha = 1.0;
-		}
-	}
-	[UIView commitAnimations];
+	[UIView animateWithDuration:kTransitionTime animations:^ {
+        for(UIView *object in self.view.subviews) {
+            if([object isKindOfClass:[UIButton class]] || [object isKindOfClass:[UIImageView class]]) {
+                object.transform = translateOriginal;
+                object.alpha = 1.0;
+            }
+        }
+	}];
 	
 	[super viewWillAppear:animated];
 }

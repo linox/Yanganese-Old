@@ -25,39 +25,32 @@
 	if(![sender isKindOfClass:[UIButton class]] && settingsHidden)
 		return;
 	
-    [UIView beginAnimations:@"Show Settings by Slide" context:nil];
-	[UIView setAnimationCurve:UIViewAnimationCurveEaseOut];
-    [UIView setAnimationDuration:kTransitionTime];
-    
-    CGAffineTransform move;
-	if(settingsHidden)
-    {
-        move = translateRight;
-		self.view.backgroundColor = [UIColor colorWithRed:0.0 green:0.0 blue:0.0 alpha:0.3];
-		for(UIView *object in self.view.subviews) {
-			if([object isKindOfClass:[UIButton class]]) {
-				UIButton *button = (UIButton *)object;
-				button.enabled = NO;
-			}
-		}
-		self.titleImage.image = [UIImage imageNamed:@"yanganeseDisabled.png"];
-	}   
-    else 
-    {
-        move = translateOriginal;
-		self.view.backgroundColor = [UIColor clearColor];
-		for(UIView *object in self.view.subviews) {
-			if([object isKindOfClass:[UIButton class]]) {
-				UIButton *button = (UIButton *)object;
-				button.enabled = YES;
-			}
-		}
-		self.titleImage.image = [UIImage imageNamed:@"yanganese.png"];
-		
-    }
-    settingsView.transform = move;
-	
-    [UIView commitAnimations];
+    [UIView animateWithDuration:kTransitionTime animations:^ {
+        CGAffineTransform move;
+        BOOL buttonEnabled;
+        if(settingsHidden)
+        {
+            move = translateRight;
+            self.view.backgroundColor = [UIColor lightTransparentBlack];
+            buttonEnabled = NO;
+            self.titleImage.image = [UIImage imageNamed:@"yanganeseDisabled.png"];
+        }   
+        else 
+        {
+            move = translateOriginal;
+            self.view.backgroundColor = [UIColor clearColor];
+            buttonEnabled = YES;
+            self.titleImage.image = [UIImage imageNamed:@"yanganese.png"];
+            
+        }
+        for(UIView *object in self.view.subviews) {
+            if([object isKindOfClass:[UIButton class]]) {
+                UIButton *button = (UIButton *)object;
+                button.enabled = buttonEnabled;
+            }
+        }
+        settingsView.transform = move;
+    }];
 	
 	settingsHidden = !settingsHidden;
 }
@@ -73,18 +66,14 @@
 }
 
 - (IBAction)select:(id)sender {
-	[UIView beginAnimations:@"Slide Out" context:nil];
-	[UIView setAnimationCurve:UIViewAnimationCurveEaseOut];
-	[UIView setAnimationDuration:kTransitionTime];
-	
-	if(!settingsHidden) {
-		CGAffineTransform original = CGAffineTransformMakeTranslation(0.0, 0.0);
-		settingsView.transform = original;
-		settingsHidden = !settingsHidden;
-	}
-	[self translateOut];
-	
-	[UIView commitAnimations];
+	[UIView animateWithDuration:kTransitionTime animations:^ {
+        if(!settingsHidden) {
+            CGAffineTransform original = CGAffineTransformMakeTranslation(0.0, 0.0);
+            settingsView.transform = original;
+            settingsHidden = !settingsHidden;
+        }
+        [self translateOut];
+	}];
 	
 	[super select:sender];
 }
