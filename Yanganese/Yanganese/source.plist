@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Atomic Structure/Periodic Table</key>
+	<dict>
+		<key>Bonus</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of the following applies to all alkaline earth metals?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>they have a typical oxidation state of +1</string>
+				<key>X</key>
+				<string>alkaline earth metal oxides are acid anhydrides</string>
+				<key>Y</key>
+				<string>they form covalent bonds with nonmetals</string>
+				<key>Z</key>
+				<string>they are found in nature as compounds</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Ions of which of the following elements have the largest radii?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>oxygen</string>
+				<key>X</key>
+				<string>fluorine</string>
+				<key>Y</key>
+				<string>sodium</string>
+				<key>Z</key>
+				<string>magnesium</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Sodium is now produced by reducing which compound?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>sodium carbonate</string>
+				<key>X</key>
+				<string>sodium hydroxide</string>
+				<key>Y</key>
+				<string>sodium chloride</string>
+				<key>Z</key>
+				<string>sodium azide</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>The principle quantum number of the second row of the d-block is?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>2</string>
+				<key>Y</key>
+				<string>3</string>
+				<key>Z</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which element has the largest electron affinity?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>fluorine</string>
+				<key>X</key>
+				<string>chlorine</string>
+				<key>Y</key>
+				<string>mercury</string>
+				<key>Z</key>
+				<string>hydrogen</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>What color does strontium produce when burned over a flame?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>red</string>
+				<key>X</key>
+				<string>blue</string>
+				<key>Y</key>
+				<string>yellow</string>
+				<key>Z</key>
+				<string>lilac</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>The first, second and third ionization energies for an element are: 8 eV, 15eV, 80eV. Which of the following could most likely be this element?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>sodium</string>
+				<key>X</key>
+				<string>aluminum</string>
+				<key>Y</key>
+				<string>potassium</string>
+				<key>Z</key>
+				<string>magnesium</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Approximately, what is the energy of the valence electron of hydrogen when it is in the n = 1 state?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>-2.178 E -18 J</string>
+				<key>X</key>
+				<string>-5.445 E -19 J</string>
+				<key>Y</key>
+				<string>2.178 E -18 J</string>
+				<key>Z</key>
+				<string>5.445 E -19 J</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>What is the energy of a wave with wavelength 400 nm? Use 6.6 E -34 J * s for Planck&apos;s constant and 3.0 E 8 m/s for the speed of light.</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>3.96 E -15 J</string>
+				<key>X</key>
+				<string>1.98 E -15 J</string>
+				<key>Y</key>
+				<string>2.178 E -18 J</string>
+				<key>Z</key>
+				<string>5.445 E -19 J</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>In potassium ferrate, iron has an oxidation state of?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>+2 </string>
+				<key>X</key>
+				<string>+3</string>
+				<key>Y</key>
+				<string>+4</string>
+				<key>Z</key>
+				<string>+6</string>
+			</dict>
+		</array>
+		<key>Info</key>
+		<dict>
+			<key>Author</key>
+			<string>Michael Yang</string>
+			<key>Icon</key>
+			<string>Chem.png</string>
+			<key>Name</key>
+			<string>Atomic Structure/Periodic Table</string>
+			<key>NumRatings</key>
+			<string>1</string>
+			<key>Rating</key>
+			<string>1.5</string>
+		</dict>
+		<key>Toss-up</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of the following radioactive isotopes is used to track nuclear decay?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>carbon-12</string>
+				<key>X</key>
+				<string>carbon-14</string>
+				<key>Y</key>
+				<string>uranium-235</string>
+				<key>Z</key>
+				<string>uranium-238</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which element has electrons that are all paired?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>neon</string>
+				<key>X</key>
+				<string>oxygen</string>
+				<key>Y</key>
+				<string>carbon</string>
+				<key>Z</key>
+				<string>fluorine</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which substance constitutes the majority of the earth&apos;s atmosphere?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>oxygen</string>
+				<key>X</key>
+				<string>nitrogen</string>
+				<key>Y</key>
+				<string>carbon dioxide</string>
+				<key>Z</key>
+				<string>water</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which element is most commonly used to manufacture semi-conductors?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>sulfur</string>
+				<key>X</key>
+				<string>germanium</string>
+				<key>Y</key>
+				<string>silicon</string>
+				<key>Z</key>
+				<string>copper</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of these elements is liquid at room temperature?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>bromine</string>
+				<key>X</key>
+				<string>fluorine</string>
+				<key>Y</key>
+				<string>chlorine</string>
+				<key>Z</key>
+				<string>iodine</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of the following is the most electronegative?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>nitrogen</string>
+				<key>X</key>
+				<string>oxygen</string>
+				<key>Y</key>
+				<string>carbon</string>
+				<key>Z</key>
+				<string>fluorine</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of the following elements is most common in the earth&apos;s crust after oxygen?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>mercury</string>
+				<key>X</key>
+				<string>copper</string>
+				<key>Y</key>
+				<string>silicon</string>
+				<key>Z</key>
+				<string>zinc</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of the following ions typically has a charge of +1?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>sodium</string>
+				<key>X</key>
+				<string>chlorine</string>
+				<key>Y</key>
+				<string>oxygen</string>
+				<key>Z</key>
+				<string>iron</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of the following states that no two elements may have the same quantum numbers?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Hund&apos;s rule</string>
+				<key>X</key>
+				<string>the Aufbau Principle</string>
+				<key>Y</key>
+				<string>the Pauli Exclusion Principle</string>
+				<key>Z</key>
+				<string>the Heisenberg Uncertainty Principle</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Chem</string>
+				<key>Question</key>
+				<string>Which of the following elements is not paramagnetic?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>hydrogen</string>
+				<key>X</key>
+				<string>lithium</string>
+				<key>Y</key>
+				<string>boron</string>
+				<key>Z</key>
+				<string>beryllium</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Basic Astronomy</key>
+	<dict>
+		<key>Bonus</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>The radius of the Sun&apos;s core is approximately what percentage of the radius of the Sun?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>25%</string>
+				<key>X</key>
+				<string>30%</string>
+				<key>Y</key>
+				<string>45%</string>
+				<key>Z</key>
+				<string>50%</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which planet in the solar system has the greatest albedo?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Mercury</string>
+				<key>X</key>
+				<string>Venus</string>
+				<key>Y</key>
+				<string>Jupiter</string>
+				<key>Z</key>
+				<string>Neptune</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which of the following elements has the greatest mass percentage composition in the Sun?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>oxygen</string>
+				<key>X</key>
+				<string>carbon</string>
+				<key>Y</key>
+				<string>neon</string>
+				<key>Z</key>
+				<string>iron</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which of the following is not a type of spiral galaxy</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>ring</string>
+				<key>X</key>
+				<string>starburst</string>
+				<key>Y</key>
+				<string>lenticular</string>
+				<key>Z</key>
+				<string>galactic halo</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>What is the largest galaxy in the Local Group?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Andromeda Galaxy</string>
+				<key>X</key>
+				<string>Sextans B</string>
+				<key>Y</key>
+				<string>Leo A</string>
+				<key>Z</key>
+				<string>Milky Way</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>What is the general term for the point of closest approach in which the satellite is nearest to the body it is orbiting?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>perihermion</string>
+				<key>X</key>
+				<string>aphelion</string>
+				<key>Y</key>
+				<string>aphohadion</string>
+				<key>Z</key>
+				<string>periapsis</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which of Kepler&apos;s laws was previously known as the harmonic law?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>zeroth</string>
+				<key>X</key>
+				<string>first</string>
+				<key>Y</key>
+				<string>second</string>
+				<key>Z</key>
+				<string>third</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Approximately what is the axial tilt of Jupiter?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>0 degrees</string>
+				<key>X</key>
+				<string>3 degrees</string>
+				<key>Y</key>
+				<string>7 degrees</string>
+				<key>Z</key>
+				<string>15 degrees</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which of the following types of stars has the greatest luminosity?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>blue dwarf</string>
+				<key>X</key>
+				<string>bright giant</string>
+				<key>Y</key>
+				<string>red supergiant</string>
+				<key>Z</key>
+				<string>hypergiant</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which of the following is the smallest dwarf planet in the Solar System?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Ceres</string>
+				<key>X</key>
+				<string>Pallas</string>
+				<key>Y</key>
+				<string>Astraea</string>
+				<key>Z</key>
+				<string>Juno</string>
+			</dict>
+		</array>
+		<key>Info</key>
+		<dict>
+			<key>Author</key>
+			<string>Michael Yang</string>
+			<key>Icon</key>
+			<string>Astro.png</string>
+			<key>Name</key>
+			<string>Basic Astronomy</string>
+			<key>NumRatings</key>
+			<string>2</string>
+			<key>Rating</key>
+			<string>1.5</string>
+		</dict>
+		<key>Toss-up</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>The Sun consistss primarily of which state of matter?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>solid</string>
+				<key>X</key>
+				<string>liquid</string>
+				<key>Y</key>
+				<string>gas</string>
+				<key>Z</key>
+				<string>plasma</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which country manufactured the first spacecraft to land on and transmit data from the surface of Venus?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>the United States</string>
+				<key>X</key>
+				<string>China</string>
+				<key>Y</key>
+				<string>Russia</string>
+				<key>Z</key>
+				<string>Japan</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Near which celestial body would one be most likely to find a prominence?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Earth&apos;s Moon</string>
+				<key>X</key>
+				<string>Mars</string>
+				<key>Y</key>
+				<string>the Sun</string>
+				<key>Z</key>
+				<string>Jupiter</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>What type of galaxy is galaxy M101 in Ursa Major?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>elliptical</string>
+				<key>X</key>
+				<string>spiral</string>
+				<key>Y</key>
+				<string>ring</string>
+				<key>Z</key>
+				<string>dwarf</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Approximately how many galaxies are contained within the Local Group?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>10</string>
+				<key>X</key>
+				<string>15</string>
+				<key>Y</key>
+				<string>20</string>
+				<key>Z</key>
+				<string>30</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>What name is used to refer to the point in a satellite&apos;s orbit when it is nearest to Earth?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>perigee</string>
+				<key>X</key>
+				<string>apoapsis</string>
+				<key>Y</key>
+				<string>apogee</string>
+				<key>Z</key>
+				<string>perihelion</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>The linear arrangement of three celestial bodies in the same gravitational system is known as?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>triple opposition</string>
+				<key>X</key>
+				<string>conjunction</string>
+				<key>Y</key>
+				<string>syzygy</string>
+				<key>Z</key>
+				<string>occulation</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>One astronomical unit is equal to the distance between?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Earth and the Moon</string>
+				<key>X</key>
+				<string>Earth and the Sun</string>
+				<key>Y</key>
+				<string>The Sun and Mercury</string>
+				<key>Z</key>
+				<string>Mercury and Venus</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>The maximum mass of a white dwarf in solar masses is approximately?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1.0</string>
+				<key>X</key>
+				<string>1.4</string>
+				<key>Y</key>
+				<string>1.8</string>
+				<key>Z</key>
+				<string>2.2</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Astro</string>
+				<key>Question</key>
+				<string>Which of the following does not support the Big Bang theory?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>CMBR</string>
+				<key>X</key>
+				<string>Hubble&apos;s law</string>
+				<key>Y</key>
+				<string>abundance of primordial elements</string>
+				<key>Z</key>
+				<string>magnetic monopoles</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Linear Algebra</key>
+	<dict>
+		<key>Bonus</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Matrix A represents the transformation of a 3-dimensional vector into a 4-dimensional one. What is the maximum rank of its transpose?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>2</string>
+				<key>Y</key>
+				<string>3</string>
+				<key>Z</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Let A be an n x n matrix. Which of the following criteria will ensure that A is diagonalizable over the reals?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>rref(A) is diagonalizable</string>
+				<key>X</key>
+				<string>the characteristic polynomial has n distinct roots</string>
+				<key>Y</key>
+				<string>the rows span the nth dimension</string>
+				<key>Z</key>
+				<string>there are n distinct, real eigenvalues</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Let A be an invertible 5 x 5 matrix. Which of the following statements is false?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>rref(A) is the identity matrix</string>
+				<key>X</key>
+				<string>the rank is 5</string>
+				<key>Y</key>
+				<string>every row must have a leading 1</string>
+				<key>Z</key>
+				<string>there exists a 5 x 5 matrix B such that AB = I</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Let A be an invertible 5 x 5 matrix. Which of the following statements is false?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>det(A) is zero</string>
+				<key>X</key>
+				<string>the kernel of A is the zero vector</string>
+				<key>Y</key>
+				<string>the image of A spans the 5th dimension</string>
+				<key>Z</key>
+				<string>the rows of A span the 5th dimension</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>A is a invertible 5 x 5 matrix. Which of the following cannot be its determinant?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>-1</string>
+				<key>X</key>
+				<string>0</string>
+				<key>Y</key>
+				<string>1</string>
+				<key>Z</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Which of the following must be found in order to find the volume of a parallelepiped in the 7th dimension whose sides are spanned by the columns of matrix A?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>eigenvalues of A</string>
+				<key>X</key>
+				<string>trace of A</string>
+				<key>Y</key>
+				<string>characteristic polynomial of A</string>
+				<key>Z</key>
+				<string>transpose of A</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Matrix A represents the transformation of a 3-dimensional vector into a 4-dimensional one. What is the maximum rank of its transpose?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>2</string>
+				<key>Y</key>
+				<string>3</string>
+				<key>Z</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Matrix A represents the transformation of a 3-dimensional vector into a 4-dimensional one. What is the maximum rank of its transpose?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>2</string>
+				<key>Y</key>
+				<string>3</string>
+				<key>Z</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Matrix A represents the transformation of a 3-dimensional vector into a 4-dimensional one. What is the maximum rank of its transpose?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>2</string>
+				<key>Y</key>
+				<string>3</string>
+				<key>Z</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Matrix A represents the transformation of a 3-dimensional vector into a 4-dimensional one. What is the maximum rank of its transpose?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>2</string>
+				<key>Y</key>
+				<string>3</string>
+				<key>Z</key>
+				<string>4</string>
+			</dict>
+		</array>
+		<key>Info</key>
+		<dict>
+			<key>Author</key>
+			<string>Michael Yang</string>
+			<key>Icon</key>
+			<string>Math.png</string>
+			<key>Name</key>
+			<string>Linear Algebra</string>
+			<key>NumRatings</key>
+			<string>2</string>
+			<key>Rating</key>
+			<string>4</string>
+		</dict>
+		<key>Toss-up</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>The constant term of the characteristic polynomial of a matrix is equal to?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>the trace</string>
+				<key>X</key>
+				<string>the determinant</string>
+				<key>Y</key>
+				<string>the trace of its inverse</string>
+				<key>Z</key>
+				<string>the determinant mulitplied by the trace</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>What is the maximum rank of a matrix representing a transformation from three dimensions to five?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>2</string>
+				<key>Y</key>
+				<string>3</string>
+				<key>Z</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>If the reduced row echelon form of matrix A is equal to an identity matrix, which of the following must be true?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>The rank of A is 0</string>
+				<key>X</key>
+				<string>The image of A is the zero vector</string>
+				<key>Y</key>
+				<string>The kernel of A is the zero vector</string>
+				<key>Z</key>
+				<string>A is not invertible</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>What is the maximum number of linearly independent vectors in the ninth dimension?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>3</string>
+				<key>Y</key>
+				<string>9</string>
+				<key>Z</key>
+				<string>81</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>What is the maximum number of dimensions of the intersection of a three dimensional object with a four dimensional one?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1</string>
+				<key>X</key>
+				<string>3</string>
+				<key>Y</key>
+				<string>4</string>
+				<key>Z</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>The determinant of matrix A is 2. If seven row swaps and the division by the scalar 2 results in matrix B. What is the determinant of matrix B?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>2</string>
+				<key>X</key>
+				<string>1</string>
+				<key>Y</key>
+				<string>0</string>
+				<key>Z</key>
+				<string>-1</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>A two-dimensional matrix has an imaginary eigenvalue with a modulus of 0.5. Which best describes the phase portrait of this system?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>unstable spiral</string>
+				<key>X</key>
+				<string>stable spiral</string>
+				<key>Y</key>
+				<string>unstable ellipse</string>
+				<key>Z</key>
+				<string>stable ellipse</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>What is the relationship between the algebraic and geometric multiplicities of an eigenvalue?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>geometric multiplicity ≤ algebraic multiplicity</string>
+				<key>X</key>
+				<string>geometric multiplicity = algebraic multiplicity</string>
+				<key>Y</key>
+				<string>geometric multiplicity ≥ algebraic multiplicity</string>
+				<key>Z</key>
+				<string>geometric multiplicity ≠ algebraic multiplicity</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>A two-dimensional triangular matrix has diagonal values of 1 and 3. What are the trace and determinant?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>1, 3</string>
+				<key>X</key>
+				<string>4, 3</string>
+				<key>Y</key>
+				<string>2, 1</string>
+				<key>Z</key>
+				<string>3, 1</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Math</string>
+				<key>Question</key>
+				<string>Which is not a characteristic of an inner product space?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Symmetry</string>
+				<key>X</key>
+				<string>Positive definiteness</string>
+				<key>Y</key>
+				<string>Scalars follow the distributive property</string>
+				<key>Z</key>
+				<string>The norm can be zero</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Membranes/Organelles</key>
+	<dict>
+		<key>Bonus</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which is not a function of smooth endoplasmic reticulum?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>drug detoxification</string>
+				<key>X</key>
+				<string>lipid generation</string>
+				<key>Y</key>
+				<string>carbohydrate metabolism</string>
+				<key>Z</key>
+				<string>membrane construction</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What type of ribosome is attached to rough ER?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>free</string>
+				<key>X</key>
+				<string>prokaryotic</string>
+				<key>Y</key>
+				<string>bound</string>
+				<key>Z</key>
+				<string>studded</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What tool is commonly used in cell fractionation?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>microscope</string>
+				<key>X</key>
+				<string>freeze fracture</string>
+				<key>Y</key>
+				<string>hot plate</string>
+				<key>Z</key>
+				<string>centrifuge</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>With what substance are cells covered with in preparation for Scanning Electron Microscopy</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>gold</string>
+				<key>X</key>
+				<string>silver</string>
+				<key>Y</key>
+				<string>platinum</string>
+				<key>Z</key>
+				<string>cytosol</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What is the most accurate name of the substance contained within the cytoplasm of a cell?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>endocellular fluid</string>
+				<key>X</key>
+				<string>cytosol</string>
+				<key>Y</key>
+				<string>plasma</string>
+				<key>Z</key>
+				<string>water</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What common organelle does the nucleolus play a part in synthesizing?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>mitochondria</string>
+				<key>X</key>
+				<string>chloroplast</string>
+				<key>Y</key>
+				<string>ribosome</string>
+				<key>Z</key>
+				<string>golgi apparatus</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What is the most common type of protein secreted by the rough endoplasmic reticulum?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>glycoprotein</string>
+				<key>X</key>
+				<string>lipoprotein</string>
+				<key>Y</key>
+				<string>glycopeptide</string>
+				<key>Z</key>
+				<string>enzyme</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Through which face do products of the Golgi apparatus exit?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>cis</string>
+				<key>X</key>
+				<string>trans</string>
+				<key>Y</key>
+				<string>medial</string>
+				<key>Z</key>
+				<string>endo</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which model of the cellular membrane is the most recent?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Davson-Danielli sandwhich model</string>
+				<key>X</key>
+				<string>fluid mosaic model</string>
+				<key>Y</key>
+				<string>phospholipid bilayer model</string>
+				<key>Z</key>
+				<string>cholesterol embedded model</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What is the term for a molecule that has both hydrophobic and hydrophilic regions?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>amphoteric</string>
+				<key>X</key>
+				<string>amphibian</string>
+				<key>Y</key>
+				<string>amphipathic</string>
+				<key>Z</key>
+				<string>nonpolar</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What quality of membranes is most important to its function?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>selective permeability</string>
+				<key>X</key>
+				<string>amphibian</string>
+				<key>Y</key>
+				<string>amphipathic</string>
+				<key>Z</key>
+				<string>nonpolar</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>An animal cell is placed in a hypotonic solution, which of the following will occur?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>it will lyse</string>
+				<key>X</key>
+				<string>it will become turgid</string>
+				<key>Y</key>
+				<string>nothing</string>
+				<key>Z</key>
+				<string>it will shrivel</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>A plant cell is placed in a hypertonic solution, which of the following will occur?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>it will become turgid</string>
+				<key>X</key>
+				<string>nothing</string>
+				<key>Y</key>
+				<string>plamolysis</string>
+				<key>Z</key>
+				<string>it will become flaccid</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Ion channels are most specifically an example of what type of diffusion?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>osmosis</string>
+				<key>X</key>
+				<string>facilitated</string>
+				<key>Y</key>
+				<string>passive</string>
+				<key>Z</key>
+				<string>active</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Active transport requires which of the following?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>channel proteins</string>
+				<key>X</key>
+				<string>membrane potentials</string>
+				<key>Y</key>
+				<string>favorable concentration gradients</string>
+				<key>Z</key>
+				<string>carrier proteins</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>The sodium-potassium pump is an example to what type of transport?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>active</string>
+				<key>X</key>
+				<string>passive</string>
+				<key>Y</key>
+				<string>diffusion</string>
+				<key>Z</key>
+				<string>osmosis</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which of the following has the capability of establishing a membrane potential?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>electrogenic pumps</string>
+				<key>X</key>
+				<string>facilitated diffusion</string>
+				<key>Y</key>
+				<string>osmosis</string>
+				<key>Z</key>
+				<string>nonpolar molecules</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>A proton pump pushes 5 hydrogen ions outside of the cell, and the sucrose-hydrogen ion cotransporter brings in 5 molecules of sucrose. What is the net change in charge in the cell?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>-5</string>
+				<key>X</key>
+				<string>0</string>
+				<key>Y</key>
+				<string>+5</string>
+				<key>Z</key>
+				<string>+10</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which ion does not help establish membrane potentials in most animal or plant cells?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>hydrogen</string>
+				<key>X</key>
+				<string>sodium</string>
+				<key>Y</key>
+				<string>potassium</string>
+				<key>Z</key>
+				<string>lithium</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which type of bulk transport between a cell and its surroundings does not bring material into the cell?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>exocytosis</string>
+				<key>X</key>
+				<string>phagocytosis</string>
+				<key>Y</key>
+				<string>pinocytosis</string>
+				<key>Z</key>
+				<string>receptor-mediated endocytosis</string>
+			</dict>
+		</array>
+		<key>Info</key>
+		<dict>
+			<key>Author</key>
+			<string>Michael Yang</string>
+			<key>Icon</key>
+			<string>Bio.png</string>
+			<key>Name</key>
+			<string>Membranes/Organelles</string>
+			<key>NumRatings</key>
+			<string>1</string>
+			<key>Rating</key>
+			<string>2.0</string>
+		</dict>
+		<key>Toss-up</key>
+		<array>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which type of technique is best suited for studying the cross-sections of small cells?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>light microscopy</string>
+				<key>X</key>
+				<string>magnetic resonance imaging</string>
+				<key>Y</key>
+				<string>scanning electron microscopy</string>
+				<key>Z</key>
+				<string>transmission electron microscopy</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>The study of the structure and function of the cell fall into which two fields of study?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>Genetics, systems biology</string>
+				<key>X</key>
+				<string>Cytology, biochemistry</string>
+				<key>Y</key>
+				<string>Epidemiology, pathology</string>
+				<key>Z</key>
+				<string>Zoology, botany</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which organelle is located in both eukaryotic and prokaryotic cells?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>mitochondria</string>
+				<key>X</key>
+				<string>chloroplasts</string>
+				<key>Y</key>
+				<string>nuclei</string>
+				<key>Z</key>
+				<string>ribosomes</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which is not contained in the nucleus of a cell?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>chromatin</string>
+				<key>X</key>
+				<string>nucleiod</string>
+				<key>Y</key>
+				<string>nuclear lamina</string>
+				<key>Z</key>
+				<string>nucleolus</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>The proteins of free ribosomes are intended for which of the following?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>secretion</string>
+				<key>X</key>
+				<string>membrane construction</string>
+				<key>Y</key>
+				<string>intracellular distribution</string>
+				<key>Z</key>
+				<string>packaging into other organelles</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which is not a component of the endomembrane system?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>plasma membrane</string>
+				<key>X</key>
+				<string>rough endoplasmic reticulum</string>
+				<key>Y</key>
+				<string>golgi apparatus</string>
+				<key>Z</key>
+				<string>nucleolus</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>The lumen of the endoplasmic reticulum is contiuous with which of the following?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>the space between the membranes of the nuclear envelope</string>
+				<key>X</key>
+				<string>mitochondria</string>
+				<key>Y</key>
+				<string>golgi apparatus</string>
+				<key>Z</key>
+				<string>chloroplasts</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which face of the Golgi apparatus do products of the endoplasmic reticulum enter?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>cis</string>
+				<key>X</key>
+				<string>trans</string>
+				<key>Y</key>
+				<string>medial</string>
+				<key>Z</key>
+				<string>endo</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which is not a major function of integral proteins?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>transport</string>
+				<key>X</key>
+				<string>enzymatic activity</string>
+				<key>Y</key>
+				<string>membrane viscosity regulation</string>
+				<key>Z</key>
+				<string>signal transduction</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which type of macromolecule is the most important in cell-cell recognition?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>carbohydrate</string>
+				<key>X</key>
+				<string>protein</string>
+				<key>Y</key>
+				<string>lipid</string>
+				<key>Z</key>
+				<string>nucleic acid</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which side of the Golgi apparatus are membrane carbohydrates on? Which side of the plasma membrane are membrane carbohydrates on?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>outer, inner</string>
+				<key>X</key>
+				<string>inner, outer</string>
+				<key>Y</key>
+				<string>outer, outer</string>
+				<key>Z</key>
+				<string>inner, inner</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which is not a type of transport protein?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>aquaporin</string>
+				<key>X</key>
+				<string>signal</string>
+				<key>Y</key>
+				<string>channel</string>
+				<key>Z</key>
+				<string>carrier</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Y</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Passive diffusion must involve which of the following?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>water</string>
+				<key>X</key>
+				<string>two solutes</string>
+				<key>Y</key>
+				<string>the concentration gradient</string>
+				<key>Z</key>
+				<string>a membrane protein</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which is not a term used to compare the tonicities of two substances</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>amphotonic</string>
+				<key>X</key>
+				<string>isotonic</string>
+				<key>Y</key>
+				<string>hypotonic</string>
+				<key>Z</key>
+				<string>hypertonic</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>Z</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>A cell contains 0.1M sucrose and its surroundings contain 5M sucrose. Relative to the cell, the surroundings are</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>amphotonic</string>
+				<key>X</key>
+				<string>isotonic</string>
+				<key>Y</key>
+				<string>hypotonic</string>
+				<key>Z</key>
+				<string>hypertonic</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which macromolecules are the basic units of most cell membranes?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>phospholipids, proteins</string>
+				<key>X</key>
+				<string>carbohydrates, proteins</string>
+				<key>Y</key>
+				<string>nucleic acids, phospholipids</string>
+				<key>Z</key>
+				<string>carbohydrates, fatty acids</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Which of the following factors least affects the fluidity of the cell membrane</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>protein arrangement</string>
+				<key>X</key>
+				<string>unsaturated hydrocarbon tails in the phospholipids</string>
+				<key>Y</key>
+				<string>temperature</string>
+				<key>Z</key>
+				<string>cholesterol</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>X</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>What quarternary form do integral proteins most commonly take?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>β pleated sheets</string>
+				<key>X</key>
+				<string>α helices</string>
+				<key>Y</key>
+				<string>β helices</string>
+				<key>Z</key>
+				<string>α chains</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>The plasma membrane is now larger in surface area. What type of bulk transport has most likely occurred?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>exocytosis</string>
+				<key>X</key>
+				<string>phagocytosis</string>
+				<key>Y</key>
+				<string>pinocytosis</string>
+				<key>Z</key>
+				<string>receptor-mediated endocytosis</string>
+			</dict>
+			<dict>
+				<key>Answer</key>
+				<string>W</string>
+				<key>Category</key>
+				<string>Bio</string>
+				<key>Question</key>
+				<string>Hormones and insulin are released through which type of transport?</string>
+				<key>Type</key>
+				<string>MC</string>
+				<key>W</key>
+				<string>exocytosis</string>
+				<key>X</key>
+				<string>phagocytosis</string>
+				<key>Y</key>
+				<string>pinocytosis</string>
+				<key>Z</key>
+				<string>receptor-mediated endocytosis</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
